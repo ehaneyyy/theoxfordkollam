@@ -1,0 +1,6 @@
+{
+  "name": "The Oxford School, Kollam",
+  "description": "Minimalistic and calm digital portal for The Oxford School Kollam (CBSE Affiliation No. 930421), featuring academics, residential boarding, campus facilities, and online admissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
